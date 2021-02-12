@@ -17,4 +17,5 @@ The New Internet Protocol (N.I.P) will replace the IP system because it's old an
 | 6 | SMTP | 25 |
 | 7 | DNS | 53 |
 | 8 | POP3 | 110 |
-| 9+ | (Until I think of more, FREE FOR ALL) | Idk |
+| 9 | Secret ME Communications | Doesn't exist |
+| 10+ | Until I think of more, FREE FOR ALL! | Idk |
