@@ -19,4 +19,6 @@ The New Internet Protocol (N.I.P) will replace the IP system because it's old an
 | 8 | POP3 | 110 |
 | 9 | Secret ME Communications | Doesn't exist |
 | 10 | IRC | 194 |
-| 11+ | Until I think of more, FREE FOR ALL! | Idk |
+| 11 - 655 | Until I think of more, FREE FOR ALL! | Misc. |
+| 666 | Doom | 666 |
+| 667+ | Until I think of more, FREE FOR ALL! | Misc. |
